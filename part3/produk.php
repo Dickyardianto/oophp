@@ -15,7 +15,7 @@ class Produk {
 $produk1 = new produk();
 $produk1->judul = "Naruto";
 $produk1->penulis = "Dicky Ardianto";
-$produk1->penerbit = "Sandika";
+$produk1->penerbit = "Ujang Amen";
 $produk1->harga = 10000;
 
 
